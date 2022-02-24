@@ -16,12 +16,8 @@
 
 [计算机网络篇](https://github.com/lunix555/Cpp-interview-tips/issues/2)
 
-[操作系统篇](https://github.com/lunix555/Cpp-interview-tips/issues/3)
+[操作系统篇](https://github.com/lunix555/Cpp-interview-tips/issues/5)
 
-[数据结构篇](https://github.com/lunix555/Cpp-interview-tips/issues/4)
-
-[a](https://github.com/lunix555/Cpp-interview-tips/issues/5)
-
-[b](https://github.com/lunix555/Cpp-interview-tips/issues/6)
+[数据结构篇](https://github.com/lunix555/Cpp-interview-tips/issues/6)
 
 [C++11新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/7)
