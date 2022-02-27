@@ -24,6 +24,8 @@
 
 [C++11新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/7)
 
-[C++11新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/8)
+[数据库篇](https://github.com/lunix555/Cpp-interview-tips/issues/8)
 
-[C++11新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/9)
+[C++14新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/9)
+
+[C++17新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/10)
