@@ -29,3 +29,7 @@
 [C++14新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/9)
 
 [C++17新特性篇](https://github.com/lunix555/Cpp-interview-tips/issues/10)
+
+[Linux篇](https://github.com/lunix555/Cpp-interview-tips/issues/11)
+
+[设计模式篇](https://github.com/lunix555/Cpp-interview-tips/issues/12)
